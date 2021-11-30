@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "files.exclude": {
+      ".vscode": true,
+      "bin": true,
+      "lib": true,
+      "README.md": true
+    }
+}
