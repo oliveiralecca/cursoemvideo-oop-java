@@ -1,2 +1,2 @@
-# cursoemvideo-poo-java
-Classes codes about Object-oriented programming in Java.
+# cursoemvideo-oop-java
+Classes codes about Object-Oriented Programming in Java.
